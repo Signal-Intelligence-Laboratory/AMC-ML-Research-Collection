@@ -1,4 +1,5 @@
 # ML Systems Adversaries
+[A Multiscale Discriminative Attack Method for Automatic Modulation Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10793417)
 
 [The Threat of Adversarial Attacks Against Machine Learning in Network Security: A Survey](https://arxiv.org/pdf/1911.02621)
 - Extensive categorization of adversarial attacks
