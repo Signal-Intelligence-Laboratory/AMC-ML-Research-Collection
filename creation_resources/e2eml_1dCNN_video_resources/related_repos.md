@@ -1,8 +1,6 @@
 # Related Repos
 A list of repos which have relation to the project direction
 
-## 
-
 ## ML Training Parameters
 [robustness package](https://github.com/MadryLab/robustness)
 - A package created to make traning and evaluation of neural networks
