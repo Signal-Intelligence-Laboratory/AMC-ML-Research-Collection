@@ -28,7 +28,7 @@
 ### Specifically CNNs / Deep Learning
 [Deep Learning-Based Automatic Modulation Classification Using Robust CNN Architecture for Cognitive Radio Networks](https://www.mdpi.com/1424-8220/23/23/9467)
 
-[Modulation Classification Using Convolutional Neural Network Based Deep Learning Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7929000)
+[Modulation Classification Using Convolutional Neural Network Based Deep Learning Model](https://ieeexplore.ieee.org/document/7929000)
 
 [Deep Learning for Robust and Secure Wireless Communications](https://link.springer.com/chapter/10.1007/978-3-031-53510-9_6)
 - Chapter written by Northeastern researchers who did work on JaX
