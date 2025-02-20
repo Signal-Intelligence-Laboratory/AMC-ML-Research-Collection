@@ -28,18 +28,11 @@ The grander proposal of this project is to create an AMC system allowing for the
 
 In the short term, the proposal is to create a Convolutional Neural Network for AMC. It should first be able interact with both simulated and real-world signals such that its performance can be assessed in an actual application environment. It should also have easily variable parameters such as amount of training data, generation of said data, convolutional layers, and other elements of its construction to observe how its desired qualities such as speed and accuracy vary with tradeoffs in its construction. 
 
-The CNN architecture was chosen for this first project because... (simple and I think it's a bad choice to classify signals with pictures)
-
-
-
-
-
+The CNN architecture was chosen for this first project for a few reasons. The first reason is my own skepticism of the methodology. There are a handful of ML AMC methods which function by first converting the detected signal into an image representation with the intention of then untilizing image classifiers to classify the signal. To me, the approach just reads as strange. First converting signal to image in order to classify seems like an unnecessary extra step which seems like it could be avoided if the signal were analyzed with purely signal processing techniques. There are variations which treat the signal as the 1-dimensional amplitude/time representation, but still, the system seems to forego analysis for a nonspecific do-it-all approach. I cast aspersions, but my instinct is that this method is chosen when research has more of an interest in the machine learning than the actual usefulness of their system in a wireless environment (see- [11](#references) for more issues in "Domain Expertise"). The second reason I chose this system is for ubiquity and simplicity (at least for me). I understand the general concept of convolution for feature detection, it's common in signal processing, it then has the additional step of training a neural network on top of it. Also, CNN deep learning solutions are not difficult to find in recent research, meaning that building off of existing systems will be less of a challenge. The CNN system is also only a starting point. Again, the large-scale goal is to try many of these systems, the CNN is just a place to begin the investigation.
 
 ## Model Structure Overview
 
-Block diagram of model goes here
-
-Try to label each block with the possible methodologies which can fit the block, and why we might want to examine in study.
+[Model Diagram](AMC_General_Diagram.drawio.png)
 
 
 ## References
@@ -62,4 +55,6 @@ Try to label each block with the possible methodologies which can fit the block,
 [9] [The Threat of Adversarial Attacks Against Machine Learning in Network Security: A Survey](https://arxiv.org/pdf/1911.02621)
 
 [10] [Defending AI-Based Automatic Modulation Recognition Models Against Adversarial Attacks](https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1203&context=engtech_fac_pubs)
+
+[11] [The Domain Expertise Trap](https://cyclostationary.blog/2022/04/21/the-domain-expertise-trap/)
 
