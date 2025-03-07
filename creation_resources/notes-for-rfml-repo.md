@@ -1,6 +1,6 @@
 
 Notes From: [Convolutional Radio Modulation Recognition Networks](https://arxiv.org/pdf/1602.04105)
-- this is the paper that the repo is built from
+- this is the paper that the rfml repo is built from
 - Feature learning/detection system
 - Input to the CNN system is a 2xN array where the 2 dimensions are the I and Q inputs from sampling the signal
 - This makes it a 2D CNN
