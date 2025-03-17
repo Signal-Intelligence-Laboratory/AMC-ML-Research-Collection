@@ -22,4 +22,3 @@
 - MATLAB
 - GNU Radio
 - [Colosseum](https://colosseum.sites.northeastern.edu/)
-
