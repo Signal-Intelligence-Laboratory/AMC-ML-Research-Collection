@@ -33,17 +33,14 @@
 [Deep Learning for Robust and Secure Wireless Communications](https://link.springer.com/chapter/10.1007/978-3-031-53510-9_6)
 - Chapter written by Northeastern researchers who did work on JaX
 
+[PhyDNNs: Bringing Deep Neural Networks to the Physical Layer](https://mentis.info/wp-content/uploads/2025/01/PhyDNNs_INFOCOM_2025.pdf)
+- A bit confusing in what exactly the authors are changing
+- Requires further reading
+
 ## Stochastic Processes
 [Automatic Modulation Parameter Detection In Practice](https://dl.acm.org/doi/pdf/10.1145/3375894.3375896)
 - Paper from URH. Uses a decision tree with probabilistic variance
 - Lightweight and quick
 - Meant for real-world application. Tested on real signals
-
-
-
-
-
-
-
 
 

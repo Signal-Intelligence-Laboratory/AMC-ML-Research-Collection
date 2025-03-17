@@ -9,4 +9,7 @@
 - A mix of ML and CSP
 - Unfortunately I reached out and they're filing for a patent so the code is unavailable
 
+[Robust and secure wireless communications: a deep learning approach.](https://repository.library.northeastern.edu/files/neu:4f20k306f)
+- Recent PhD dissertation on deep learning in wireless comms
+
 
